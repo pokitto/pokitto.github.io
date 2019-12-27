@@ -10,7 +10,7 @@ layout: base
 	  <h2 class="post-title">
 	    Table of Contents
 	  </h2>
-      {% include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=2 h_max=2 %}
+      {% include toc.html html=content sanitize=false class="inline_toc" id="my_toc" h_min=2 h_max=2 %}
 	  {{ content }}
 	    {% if page.comments %}
         <div class="disqus-comments">
