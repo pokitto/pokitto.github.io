@@ -2,3 +2,4 @@ title: "The Pokitto Guidebook"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "light"
 search_enabled: true
+logo: "/assets/images/pok_logo.png"
