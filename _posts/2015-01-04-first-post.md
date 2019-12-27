@@ -1,7 +1,8 @@
 ---
 layout: post
-title: First post!
+title: What is Pokitto?
 image: /img/hello_world.jpeg
 ---
 
-This is my first post, how exciting!
+Pokitto is an opensource game console built in the spirit of do-it-yourself.
+
