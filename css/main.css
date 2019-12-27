@@ -365,13 +365,13 @@ footer .theme-by {
   height: 192px;
   width: 192px;
   margin-top: -35px;
-  filter: grayscale(90%);
+  filter: grayscale(0%);
 }
 .post-image:hover {
   filter: grayscale(0%);
 }
 .post-image img {
-  border-radius: 100px;
+  border-radius: 0px;
   height: 192px;
   width: 192px;
 }
