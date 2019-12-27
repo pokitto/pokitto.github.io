@@ -57,7 +57,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Jonne Valola
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -66,9 +66,9 @@ author:
 social-network-links:
   rss: true
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  facebook: pokitto
+  github: pokitto
+  twitter: pokitto
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -90,7 +90,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "pokitto.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
