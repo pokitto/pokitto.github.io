@@ -7,7 +7,7 @@ layout: base
 <div class="container" role="main">
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-      {% include toc.html html=content %}
+      {% include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=2 h_max=2 %}
 	  {{ content }}
 	    {% if page.comments %}
         <div class="disqus-comments">
