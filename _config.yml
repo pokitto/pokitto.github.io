@@ -1,4 +1,4 @@
-title: "Remote theme example"
+title: "The Pokitto Guidebook"
 remote_theme: pmarsceill/just-the-docs
-color_scheme: "dark"
-search_enabled: false
+color_scheme: "light"
+search_enabled: true
