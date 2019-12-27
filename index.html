@@ -6,7 +6,7 @@ use-site-title: true
 ---
 
 <div class="posts-list">
-  {% for post in paginator.posts %}
+  {% for post in paginator.posts | reverse %}
   <article class="post-preview">
     <a href="{{ post.url | relative_url }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
@@ -18,9 +18,11 @@ use-site-title: true
 	  {% endif %}
     </a>
 
-    <p class="post-meta">
+    <!--
+	<p class="post-meta">
       Posted on {{ post.date | date: site.date_format }}
     </p>
+	-->
 
     <div class="post-entry-container">
       {% if post.image %}
