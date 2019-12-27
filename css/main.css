@@ -374,7 +374,8 @@ footer .theme-by {
 .post-image img {
   border-radius: 0px;
   height: 192px;
-  width: 192px;
+  /*width: 192px;*/
+  object-fit: cover;
 }
 .post-preview .post-read-more {
   font-weight: 800;
