@@ -11,7 +11,7 @@ Pokitto can be bought ready-made or as a simple kit – if you want, you can bui
 
 <p class="fs-6"><a href="https://www.pokitto.com/purchase/" class="btn mt-5">Order Your Pokitto !</a></p>
 
-<h2 align="center" class="bg-yellow-300 py-3">POKITTO COMBINES GAMES AND ELECTRONICS TO GET KIDS INTERESTED</h2>
+<h2>Pokitto combines games and electronics</h2>
 <img src="assets/images/960_0000-snake-1.jpg">
 <p>
 With POKITTO you learn by playing and looking at open-source games and applications.
