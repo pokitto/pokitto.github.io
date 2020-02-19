@@ -18,7 +18,7 @@ With POKITTO you learn by playing and looking at open-source games and applicati
 Then create your own programs and move on to build intelligent gadgets – it’s a motivating way of learning for both kids and adults!
 </p>
 <img src="assets/images/960_0000-snake-2.jpg">
-<h2 align="center" class="bg-yellow-300 py-3">POKITTO MAKES LEARNING ELECTRONICS FUN</h2>
+<h2>Pokitto makes learning electronics fun</h2>
 <div class="d-flex">
 <img src="assets/images/hello3.gif" width="400px">
 <div class="ml-5">
@@ -42,10 +42,10 @@ Beginner and expert questions are all treated with equal respect!
 </div>
 </div>
 
-<h2 align="center" class="bg-green-000 py-3">OUR MISSION</h2>
+<h2>Our mission</h2>
 Pokitto path to mastering the Internet-of-Things
 Pokitto is a full-featured ARM development platform. If you learn to program the Pokitto, you have inside knowledge on how smart Internet of Things gadgets really operate. There will be TENS of BILLIONS of devices like the Pokitto in our homes, cars and workplaces in the near future.
 
 We believe the future will be better if not just engineers but kids, teachers, and ordinary people of all kinds of background are able to design the smart future. Pokitto is our contribution to this vision.
 
-Jonne & Daniel
+Jonne & Daniel, original Pokitto Kickstarters
