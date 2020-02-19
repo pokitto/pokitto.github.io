@@ -7,6 +7,8 @@ permalink: /
 
 <h1 align="center" class="fs-10">Welcome to Pokitto Guidebook!</h1>
 
+WORK IN PROGRESS!!
+
 Pokitto Guidebook is a collection of information about Pokitto and how it works.
 
 
@@ -69,7 +71,7 @@ Pokitto Guidebook is a collection of information about Pokitto and how it works.
         <a href="https://talk.pokitto.com/">
             <img src="assets/images/forum.svg" width="200px">
             <p align="center">
-                <a href="https://talk.pokitto.com/" class="btn">Join Commmunity</a>
+                <a href="https://talk.pokitto.com/" class="btn">Join Community</a>
             </p>
         </a>
     </div>
@@ -77,7 +79,7 @@ Pokitto Guidebook is a collection of information about Pokitto and how it works.
         <a href="https://discord.gg/Vn4ujU">
             <img src="assets/images/chat.svg" width="200px">
             <p align="center">
-                <a href="https://discord.gg/Vn4ujU" class="btn">Live Chat</a>
+                <a href="https://discord.gg/aEruDYQ" class="btn">Live Chat</a>
             </p>
         </a>
     </div>
