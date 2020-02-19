@@ -7,4 +7,4 @@ permalink: /start
 
 ## Getting started
 
-Every thing you need to know when you first get your pokitto
+Everything you need to know when you first get your pokitto
