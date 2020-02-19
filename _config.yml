@@ -1,0 +1,10 @@
+title: "The Pokitto Guidebook"
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "dark"
+search_enabled: true
+logo: "assets/images/pokitto-logo.svg"
+future: true
+footer_content: "Copyright &copy; 2020 Pokitto Oy."
+aux_links:
+  "Pokitto.com":
+    - "//www.pokitto.com/"
