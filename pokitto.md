@@ -5,7 +5,7 @@ permalink: /pokitto
 nav_order: 2
 ---
 
-<h2 align="center" class="bg-yellow-300 py-3">POKITTO IS A Do-IT-YOURSELF GAMING GADGET</h2>
+<h1>POKITTO is a Do-It-Yourself Gaming Gadget</h1>
 
 Pokitto can be bought ready-made or as a simple kit – if you want, you can build your OWN Pokitto!
 
@@ -29,7 +29,7 @@ With Pokitto, you can learn programming & building electronics in a fun way!
 </div>
 </div>
 
-<h2 align="center" class="bg-yellow-300 py-3">POKITTO HAS A HELPFUL AND ACTIVE COMMUNITY</h2>
+<h2>Pokitto has a helpful and active community</h2>
 <div class="d-flex">
 <img src="assets/images/onegif.gif" width="400px">
 <div class="ml-5">
@@ -43,7 +43,7 @@ Beginner and expert questions are all treated with equal respect!
 </div>
 
 <h2 align="center" class="bg-green-000 py-3">OUR MISSION</h2>
-POKITTO IS YOUR path to mastering the Internet-of-Things
+Pokitto path to mastering the Internet-of-Things
 Pokitto is a full-featured ARM development platform. If you learn to program the Pokitto, you have inside knowledge on how smart Internet of Things gadgets really operate. There will be TENS of BILLIONS of devices like the Pokitto in our homes, cars and workplaces in the near future.
 
 We believe the future will be better if not just engineers but kids, teachers, and ordinary people of all kinds of background are able to design the smart future. Pokitto is our contribution to this vision.
