@@ -1,25 +1,61 @@
-.side-bar {
-
-    z-index: 100;
-    display: flex;
-    flex-wrap: wrap;
-    background-color: 
-    #fff0f3;
-
-}
-
-.site-logo {
-    width: 300%;
-    height: 300%;
-    background-image: url("https://pokitto.github.io/assets/images/pok_cool_logo2.png");
-    background-repeat: no-repeat;
-    background-position: left center;
-    background-size: contain;
+::selection {
+    color: #fff;
+    background: #4ff975;
 }
 
 .site-header {
-    z-index: 101;
-    height: 60px;
-    max-height: 60px;
     border-bottom: 0px solid #eeebee;
 }
+
+.site-logo{
+    height: 130%;
+    width:  130%;
+}
+
+a{
+    color: #4ff975;
+}
+
+a:not([class]):hover { background-image: linear-gradient(rgba(92, 250, 44, 0.377) 0%, rgba(61, 250, 44, 0.377) 100%); background-size: 1px 1px; }
+
+
+.highlight .gh {
+    color: #4ff975;
+}
+
+.highlight .gu {
+    color: #4ff975;
+}
+
+pre.highlight, figure.highlight, code{
+    background-color: #101010;
+}
+
+
+.menu-button, .btn{
+    color: #4ff975;
+}
+
+.menu-button:focus{
+    outline: none;
+}
+
+.site-footer a {
+    color: #959396;
+}
+
+.site-footer p {
+    font-size: 10px !important;
+}
+
+.search-result-highlight{
+    color: #4ff975;
+}
+
+.search-input:focus + .search-icon {
+    fill: #4ff975;
+}
+
+.btn:focus { box-shadow: 0 0 0 1px rgba(0, 255, 0, 0.20); }
+.btn:focus:hover, .btn.selected:focus { box-shadow: 0 0 0 1px rgba(0, 255, 0, 0.20); }
+.btn:hover, .btn.zeroclipboard-is-hover { color: #92fda9; }
