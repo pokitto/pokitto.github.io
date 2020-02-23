@@ -4,10 +4,10 @@ title: Welcome
 nav_order: 1
 permalink: /
 ---
-
+<p align="center"><span class="label label-yellow">WORK IN PROGRESS!!</span></p>
 <h1 align="center" class="fs-10">Welcome to Pokitto Guidebook!</h1>
 
-WORK IN PROGRESS!!
+
 
 Pokitto Guidebook is a collection of information about Pokitto and how it works.
 
