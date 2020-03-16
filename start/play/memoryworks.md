@@ -8,9 +8,9 @@ has_children: false
 ## Pokitto has many types of memory
 
 Pokitto has 4 kinds of memory, in order of size from smallest to largest:
-1. 4kB of <span style="background-color:#00AA00; color:black" >EEPROM</span> memory
+1. 4kB of <span style="font-weight:bold; color:cyan" >EEPROM</span> memory
   - EEPROM memory is very small. It is used to store highscores and system settings
-2. 36kB of RAM memory
+2. 36kB of <span style="font-weight:bold; color:magenta" >RAM </span>memory
   - RAM memory is the "working memory" of Pokitto, that is used for calculations when games are running
   - RAM memory is emptied every time device is switched off. It can not store data permanently
 3. 256kB of FLASH memory
