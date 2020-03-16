@@ -8,7 +8,7 @@ has_children: false
 ## Pokitto has many types of memory
 
 Pokitto has 4 kinds of memory, in order of size from smallest to largest:
-1. 4kB of EEPROM memory
+1. 4kB of <span style="background-color: #00FF00">EEPROM</span> memory
   - EEPROM memory is very small. It is used to store highscores and system settings
 2. 36kB of RAM memory
   - RAM memory is the "working memory" of Pokitto, that is used for calculations when games are running
