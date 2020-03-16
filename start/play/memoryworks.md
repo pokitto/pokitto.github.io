@@ -5,24 +5,28 @@ nav_order: 1
 has_children: false
 ---
 
-WIP
-
-## How Pokitto loads games
+## Pokitto has many types of memory
 
 Pokitto has 4 kinds of memory, in order of size from smallest to largest:
 1. 4kB of EEPROM memory
+  - EEPROM memory is very small. It is used to store highscores and system settings
 2. 36kB of RAM memory
+  - RAM memory is the "working memory" of Pokitto, that is used for calculations when games are running
+  - RAM memory is emptied every time device is switched off. It can not store data permanently
 3. 256kB of FLASH memory
-4. 2GB or bigger SD card (when comes with Pokitto) 
+  - FLASH memory is where the actual program is running from
+  - FLASH keeps the current program even when Pokitto is OFF
+  - Every program needs to fit into the FLASH. Because the game loader also needs space, programs need to be 220kB or less
+4. 2GB or bigger SD card (when comes with Pokitto)
+  - SD card can hold as many games as you want and will fit on the SD card
+  - SD card also has music and other data that is needed by the games
+  - the loader gets games from the SD card and loads them into FLASH
 
-EEPROM memory is very small. It is used to store highscores and system settings.
+### How the game loader works
+
+Work in progresss....
 
 
-You will find a Ready-made disk of Pokitto games here:
-> [Latest Game Disk and Game Loader](https://www.pokitto.com/games/)
-
-
-### Instructions
 1. Download and extract zip package
 2. Put Pokitto in flash programming mode (shows as CRP_DISABLD flash drive)
 3. Delete `firmware.bin` on Pokitto flash drive
