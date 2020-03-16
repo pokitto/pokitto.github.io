@@ -5,9 +5,9 @@ nav_order: 1
 has_children: false
 ---
 
-## How the Kraken game loader works
+## How the game loader works
 
-The game loader, **Kraken** (by bl_ackrain), is a small piece of code that lives above the game program (like someone living in the attic of a house).
+The game loader, <span style="font-weight:bold; color:lime" >**Kraken**</span> (by bl_ackrain), is a small piece of code that lives above the game program (like someone living in the attic of a house).
 
 When you press 'C' (the smallest button in the front of Pokitto) during startup when prompted, the Pokitto processor jumps to the attic to the loader code.
 
