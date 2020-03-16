@@ -15,7 +15,7 @@ In Kraken, after you have chosen the game you want to load, the loader copies th
 
 When Pokitto is restarted, it begins running the new game.
 
-
+```
 ### Understanding Pokitto memory in detail
 
 Pokitto has 4 kinds of memory, in order of size from smallest to largest:
@@ -33,4 +33,4 @@ Pokitto has 4 kinds of memory, in order of size from smallest to largest:
   - SD card can hold as many games as you want and will fit on the SD card
   - SD card also has music and other data that is needed by the games
   - the loader gets games from the SD card and loads them into FLASH
-
+```
