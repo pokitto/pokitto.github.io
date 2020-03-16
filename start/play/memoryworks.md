@@ -9,6 +9,15 @@ WIP
 
 ## How Pokitto loads games
 
+Pokitto has 4 kinds of memory, in order of size from smallest to largest:
+1. 4kB of EEPROM memory
+2. 36kB of RAM memory
+3. 256kB of FLASH memory
+4. 2GB or bigger SD card (when comes with Pokitto) 
+
+EEPROM memory is very small. It is used to store highscores and system settings.
+
+
 You will find a Ready-made disk of Pokitto games here:
 > [Latest Game Disk and Game Loader](https://www.pokitto.com/games/)
 
