@@ -20,16 +20,16 @@ When Pokitto is restarted, it begins running the new game.
 
 Pokitto has 4 kinds of memory, in order of size from smallest to largest:
 
-1. 4kB of <span style="font-weight:bold; color:cyan" >EEPROM</span> memory
+1. 4kB of EEPROM memory
   - EEPROM memory is very small. It is used to store highscores and system settings
-2. 36kB of <span style="font-weight:bold; color:magenta" >RAM </span>memory
+2. 36kB of RAM memory
   - RAM memory is the "working memory" of Pokitto, that is used for calculations when games are running
   - RAM memory is emptied every time device is switched off. It can not store data permanently
-3. 256kB of <span style="font-weight:bold; color:lime" >FLASH </span>memory
+3. 256kB of FLASH memory
   - FLASH memory is where the actual program is running from
   - FLASH keeps the current program even when Pokitto is OFF
   - Every program needs to fit into the FLASH. Because the game loader also needs space, programs need to be 220kB or less
-4. 2GB or bigger <span style="font-weight:bold; color:yellow" >SD card</span> (when comes with Pokitto)
+4. 2GB or bigger SD card (when comes with Pokitto)
   - SD card can hold as many games as you want and will fit on the SD card
   - SD card also has music and other data that is needed by the games
   - the loader gets games from the SD card and loads them into FLASH
