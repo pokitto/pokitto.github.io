@@ -5,6 +5,8 @@ nav_order: 1
 has_children: false
 ---
 
+![Image](pokitto_kraken.png){: width="600px"}
+
 ## How the game loader works
 
 The game loader, <span style="font-weight:bold; color:lime" >**Kraken**</span> (by bl_ackrain), is a small piece of code that lives above the game program (like someone living in the attic of a house).
