@@ -5,9 +5,15 @@ nav_order: 1
 has_children: false
 ---
 
-![Image](pokitto_kraken.png){: width="600px"}
+## The two different ways of loading games on Pokitto
 
-## How the game loader works
+Pokitto is based on a simple cpu that is used in things like microwave ovens.
+
+It has a small internal "flash" memory that stores the complete game. The flash memory is 256kB, about the size of a thumbnail picture on your computer. For this reason, the flash memory only holds *one* game at a time.
+
+In order for you to run a different program, the program has to be *loaded* into the flash memory in one of the following ways:
+
+### Method 1. Loading a game from a microSD card using the Kraken loader
 
 The game loader, <span style="font-weight:bold; color:lime" >**Kraken**</span> (by bl_ackrain), is a small piece of code that lives above the game program (like someone living in the attic of a house).
 
@@ -16,6 +22,15 @@ When you press 'C' (the smallest button in the front of Pokitto) during startup 
 In Kraken, after you have chosen the game you want to load, the loader copies that game from **SD card** into the **FLASH** memory below the loader. 
 
 When Pokitto is restarted, it begins running the new game.
+
+
+![Image](pokitto_kraken.png){: width="600px"}
+
+<hr>
+
+### Method 2. Loading a game directly from computer to Pokitto through a USB cable 
+
+
 
 <hr>
 
