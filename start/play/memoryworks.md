@@ -1,5 +1,5 @@
 ---
-title: Understand how Pokitto loads games
+title: Loading and running games on Pokitto
 parent: Play
 nav_order: 1
 has_children: false
