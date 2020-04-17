@@ -54,7 +54,7 @@ What is it?
 
 Pokitto POP programmer v .1 is a helper tool for people who have difficulties copying the binary (.bin) files from their PC (Windows and Machintosh, Linux coming soon) to Pokitto.
 
-![Image](https://talk.pokitto.com/uploads/default/original/2X/6/62a54988e88889a19e2fefbafcf2660c2192ae85.jpeg){: width="600px"}
+![Image](https://talk.pokitto.com/uploads/default/original/2X/6/62a54988e88889a19e2fefbafcf2660c2192ae85.jpeg){: width="400px"}
 
 
 Pokitto POP programmer can:
@@ -70,3 +70,4 @@ The tool is available here:
 https://talk.pokitto.com/t/pokittopop-guided-programmer-win-mac-v0-1/1504
 
 
+## HELP! I am only seeing a [White Screen!](whitescreen.md)
