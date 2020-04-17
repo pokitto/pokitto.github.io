@@ -8,4 +8,6 @@ has_children: false
 
 ## I only get a white screen!! Is my Pokitto broken?!
 
+
+![Image](pokitto_whitescreen.png){: width="600px"}
 </p>
