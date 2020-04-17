@@ -1,7 +1,7 @@
 ---
 title: White Screen of Death!
 parent: Play
-nav_order: 3
+nav_order: 2
 has_children: false
 ---
 
@@ -10,13 +10,13 @@ has_children: false
 
 Relax. When a Pokitto is showing a white screen, it only means that the program that is now in its memory is somehow broken. You need to flash any valid Pokitto .bin binary file 
 
-- download **start.bin** from here: 
-https://talk.pokitto.com/t/testing-loader-test-program-for-pokitto/508
+- download **start.bin** from [here](https://talk.pokitto.com/t/testing-loader-test-program-for-pokitto/508)
 
 You do not need a MicroSD card, you only need the .bin binary
 
-- then use Method 2 (USB cable) to reflash Pokitto 
-https://pokitto.github.io/start/play/loading.html
+- then use [Method 2 (USB cable)](loading.md) to reflash Pokitto 
+
+
 
 ### Technical explanation of the "White Screen of Death"
 
