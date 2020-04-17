@@ -40,6 +40,11 @@ What happens in this method is the following:
 - a raw program/game file, called a "binary file" (ends in ".bin") is copied into the CRP_DISABLD drive
 - Pokitto is restarted in normal mode
 
+## Windows
+Here is a video guide for Windows. The USB cable connection and buttons apply for all Win/Mac/Linux:
+
+[![USB flashing Pokitto on Windows](https://img.youtube.com/vi/PKlNyBJP9GA/0.jpg)](https://www.youtube.com/watch?v=PKlNyBJP9GA)
+
 <hr>
 
 #### Understanding Pokitto memory in detail
