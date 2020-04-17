@@ -54,6 +54,9 @@ What is it?
 
 Pokitto POP programmer v .1 is a helper tool for people who have difficulties copying the binary (.bin) files from their PC (Windows and Machintosh, Linux coming soon) to Pokitto.
 
+![Image](https://talk.pokitto.com/uploads/default/original/2X/6/62a54988e88889a19e2fefbafcf2660c2192ae85.jpeg){: width="600px"}
+
+
 Pokitto POP programmer can:
 
   - guide you how to connect your Pokitto to the computer
@@ -66,21 +69,4 @@ The tool is available here:
 
 https://talk.pokitto.com/t/pokittopop-guided-programmer-win-mac-v0-1/1504
 
-#### Understanding Pokitto memory in detail
-
-Pokitto has 4 kinds of memory, in order of size from smallest to largest:
-
-1. 4kB of EEPROM memory
-  - EEPROM memory is very small. It is used to store highscores and system settings
-2. 36kB of RAM memory
-  - RAM memory is the "working memory" of Pokitto, that is used for calculations when games are running
-  - RAM memory is emptied every time device is switched off. It can not store data permanently
-3. 256kB of FLASH memory
-  - FLASH memory is where the actual program is running from
-  - FLASH keeps the current program even when Pokitto is OFF
-  - Every program needs to fit into the FLASH. Because the game loader also needs space, programs need to be 220kB or less
-4. 2GB or bigger SD card (when comes with Pokitto)
-  - SD card can hold as many games as you want and will fit on the SD card
-  - SD card also has music and other data that is needed by the games
-  - the loader gets games from the SD card and loads them into FLASH
 
