@@ -30,7 +30,15 @@ When Pokitto is restarted, it begins running the new game.
 
 ### Method 2. Loading a game directly from computer to Pokitto through a USB cable 
 
+Updating the memory of your Pokitto can be done directly from a PC. You do not need a MicroSD card, but you need a Windows/Mac/Linux computer and a USB cable.
 
+What happens in this method is the following:
+- Pokitto is connected to the PC with a USB cable 
+- Pokitto is put into a special "flash" mode by using the buttons at the back of Pokitto
+- Pokitto appears as a USB flash drive on the computer. It is called CRP_DISABLD and contains one file "firmware.bin"
+- firmware.bin is deleted
+- a raw program/game file, called a "binary file" (ends in ".bin") is copied into the CRP_DISABLD drive
+- Pokitto is restarted in normal mode
 
 <hr>
 
