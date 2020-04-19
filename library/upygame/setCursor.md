@@ -3,7 +3,7 @@ title: setCursor
 nav_order: 1
 has_children: false
 parent: uPyGame Reference
-permalink: /library/upygame/setCursor
+permalink: /library/upygame/setcursor
 ---
 
 ## setCursor(col, row)

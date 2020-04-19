@@ -3,7 +3,7 @@ title: fillRectTiles
 nav_order: 1
 has_children: false
 parent: uPyGame Reference
-permalink: /library/upygame/fillRectTiles
+permalink: /library/upygame/fillrecttiles
 ---
 
 ## fillRectTiles(firstCol, firstRow, lastCol, lastRow, id)

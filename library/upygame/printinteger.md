@@ -3,7 +3,7 @@ title: printInteger
 nav_order: 1
 has_children: false
 parent: uPyGame Reference
-permalink: /library/upygame/printInteger
+permalink: /library/upygame/printinteger
 ---
 
 ## printInteger(number)

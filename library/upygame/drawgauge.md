@@ -3,7 +3,7 @@ title: drawGauge
 nav_order: 1
 has_children: false
 parent: uPyGame Reference
-permalink: /library/upygame/drawGauge
+permalink: /library/upygame/drawgauge
 ---
 
 ## drawGauge(firstCol, lastCol, row, currentValue, maxValue)

@@ -3,7 +3,7 @@ title: drawBox
 nav_order: 1
 has_children: false
 parent: uPyGame Reference
-permalink: /library/upygame/drawBox
+permalink: /library/upygame/drawbox
 ---
 
 ## drawBox(firstCol, firstRow, lastCol, lastRow)
