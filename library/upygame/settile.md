@@ -3,7 +3,7 @@ title: setTile
 nav_order: 1
 has_children: false
 parent: uPyGame Reference
-permalink: /library/upygame/setTile
+permalink: /library/upygame/settile
 ---
 
 ## setTile(col, row, id)
