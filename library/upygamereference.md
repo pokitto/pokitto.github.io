@@ -29,7 +29,7 @@ The TAS mode has 3 layers which are draw in the following order:
 2) The sprite layer i.e. everything that is drawn with Surface.Blit())
 3) The TAS UI tilemap layer. That is a tilemap that covers the whole screen. The tile size is 6x6 pixels.
 
-The following TAS UI class could be used to draw to the frontmost layer.
+The TAS UI API is used for drawing text and UI controls on the TAS mode. TAS UI methods use always the color indices 1-3 for the UI elements. The following TAS UI class could be used to draw to the frontmost layer.
 
 ### Functions
 
@@ -43,6 +43,19 @@ The following TAS UI class could be used to draw to the frontmost layer.
 | [fillRectTiles()]({{site.url}}{{site.baseurl}}/library/upygame/fillrecttiles)                 | Fill the rectangular are of tile with a tile content.                                     |
 | [drawBox()]({{site.url}}{{site.baseurl}}/library/upygame/drawbox) | Draw a box with borders.                                             |
 | [drawGauge()]({{site.url}}{{site.baseurl}}/library/upygame/drawgauge) | Draw a gauge.                                             |
+
+### Constants
+
+| Name                                                                     | Description                                                  |
+|:-------------------------------------------------------------------------|:-------------------------------------------------------------|
+| EMPTY_TILE               | The lower layers are showing through if the tile is empty.                                          | 
+| RIGHT_ARROW_TILE       | A right arrow tile can be used e.g. in menu items to indicate focus.                                             |
+| LEFT_ARROW_TILE             | A left arrow tile can be used e.g. in menu items to indicate focus.                               |
+| UP_ARROW_TILE     | An up arrow tile.                   |
+| DOWN_ARROW_TILE           | A left arrow tile.                   |
+| UNCHECKED_TILE                 | The unchecked mark for the checkbox.                                     |
+| CHECKED_TILE | The checked mark for the checkbox.                                             |
+| SPACE_TILE | The TAS UI background color is used for the space tile.                                             |
 
 
 <h2> Other classes  TODO <span class="label label-purple">class</span></h2>
