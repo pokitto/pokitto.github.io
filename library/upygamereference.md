@@ -25,7 +25,7 @@ These are the only normal drawing functions you can use in the TAS mode:
 * Surface.Blit() (limited to certain bitmap width and height, and bitmap count)
 * draw.Text() (limited to certain character count per screen. Use TAS UI methods instead if possible.)
 
-The TAS mode has 3 layers which are draw in the following order:
+The TAS mode has 3 layers which are draw in the following order, from back to front:
 1. The background tilemap layer
 2. The sprite layer i.e. everything that is drawn with Surface.Blit())
 3. The TAS UI tilemap layer. That is a tilemap that covers the whole screen. The tile size is 6x6 pixels.
