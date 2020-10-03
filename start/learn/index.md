@@ -1,6 +1,6 @@
 ---
 title: Learn
-has_children: true
+has_children: false
 permalink: /start/learn
 parent: Getting started
 nav_order: 3
