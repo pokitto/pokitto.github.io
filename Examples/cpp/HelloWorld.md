@@ -1,9 +1,8 @@
 ---
 title: Hello World
-nav_order: 1
+parent: cpp
+nav_order: 2
 has_children: false
-permalink: /examples/cpp/helloworld
-parent: C++
 ---
 
 
