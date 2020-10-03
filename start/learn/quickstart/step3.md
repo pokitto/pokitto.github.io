@@ -13,6 +13,6 @@ Step-by-step explanation on how to get a new program installed on Pokitto.
 Here is a video guide for Windows. The USB cable connection and buttons apply for all OS’s:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PKlNyBJP9GA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-If everything went properly after the installation of the IDE and your first upload, you should come up with something like this:</b>
+If everything went properly after the installation of the IDE and your first upload, you should come up with something like this:<b/>
 ![hello world](/assets/images/learn/helloworld.jpg)
 
