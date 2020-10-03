@@ -9,7 +9,7 @@ nav_order: 2
 
 Pokitto can be bought ready-made or as a simple kit – if you want, you can build your OWN Pokitto!
 
-<p class="fs-6"><a href="https://www.pokitto.com/purchase/" class="btn mt-5">Order Your Pokitto !</a></p>
+<p class="fs-6"><a href="https://www.pokitto.com/shop/" class="btn mt-5">Order Your Pokitto !</a></p>
 
 <h2>Pokitto combines games and electronics</h2>
 <img src="assets/images/960_0000-snake-1.jpg">
