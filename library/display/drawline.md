@@ -1,6 +1,6 @@
 ---
 title: drawLine
-nav_order: 1
+nav_order: 3
 has_children: false
 parent: Library Documentation
 permalink: /library/display/drawline
@@ -21,10 +21,10 @@ The x coordinate from where the line will start.
 The y coordinate from where the line will start. 
 
 ### x1
-The x coordinate from where the line will end.
+The x coordinate where the line will end.
 
 ### y1
-The y coordinate from where the line will end.
+The y coordinate where the line will end.
 
 ## Example
 
