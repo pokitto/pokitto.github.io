@@ -7,7 +7,7 @@ nav_order: 2
 ---
 
 # Step 2: Make your first program "Hello World!"
-This program print a simple text "Hello World!" on your pokitto display. </b>
+This program print a simple text "Hello World!" on your pokitto display. <b/>
 <div class="code-example" markdown="1">
 **main.cpp**
 </div>
