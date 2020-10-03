@@ -9,4 +9,5 @@ parent: Examples
 
 # C++ Examples
 
-[Hello World Classic]({{site.url}}{{site.baseurl}}/Examples/cpp/HelloWorld)
+
+[Hello World Classic]({{site.url}}{{site.baseurl}}/examples/cpp/helloworld)
