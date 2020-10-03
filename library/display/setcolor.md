@@ -6,12 +6,12 @@ parent: Library Documentation Display
 permalink: /library/display/setcolor
 ---
 
-Choose the color that will be used for the subsequent drawing calls, it comes in two flavours
-
 ## setColor(uint8_t foregroundColor)
 
 ## setColor(uint8_t foregroundColor, uint8_t backGroundColor)
 
+## Description
+Choose the color that will be used for the subsequent drawing calls, it comes in two flavours if you need to set also the background color in just one call.
 It's important to highlight that the color is passed as index of the colours palette in use.
 Is possible to load a different palette with [load565Palette()]({{site.url}}{{site.baseurl}}/library/display/load565palette) or [loadRGBPalette()]({{site.url}}{{site.baseurl}}/library/display/loadrgbpalette)
 

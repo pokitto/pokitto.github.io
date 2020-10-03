@@ -6,25 +6,23 @@ parent: Library Documentation Display
 permalink: /library/display/drawpixel
 ---
 
-Draw a single point (pixel) in the screen specific coordinate
-
 ## drawPixel(int16_t x, int16_t y)
 
-## drawPixel(int16_t x, int16_t y, uint8_t col)
+## drawPixel(int16_t x, int16_t y, uint8_t color)
 
-## drawPixelRaw(int16_t x, int16_t y, uint8_t col)
-
-## drawPixelNOP(int16_t x, int16_t y, uint8_t col)
-
-Draws a line of the current color (you can choose index color used with [setColor]({{site.url}}{{site.baseurl}}/library/display/setcolor)).
+## Description
+Draw a single point (pixel) in the screen specific coordinate using current color (you can choose index color used with [setColor]({{site.url}}{{site.baseurl}}/library/display/setcolor)).
 
 ## Parameters
 
-### x0
+### x
 The x coordinate where draw the pixel. 
 
-### y0
+### y
 The y coordinate where draw the pixel.
+
+### color
+The color that will be used to draw the pixel, in case you don't want to set it with [setColor]({{site.url}}{{site.baseurl}}/library/display/setcolor)).
 
 
 ## Example

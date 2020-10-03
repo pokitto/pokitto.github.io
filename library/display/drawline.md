@@ -6,9 +6,9 @@ parent: Library Documentation Display
 permalink: /library/display/drawline
 ---
 
-How to draw a line.
-
 ## drawLine(uint8_t x0, uint8_t y0, uint8_t x1, uint8_t y1)
+
+## Description
 
 Draws a line of the current color (you can choose index color with [setColor()]({{site.url}}{{site.baseurl}}/library/display/setcolor)).
 The coordinate system is the one usually used in most of computer display, with the origin point (0,0) located at the top left corner of the display.
