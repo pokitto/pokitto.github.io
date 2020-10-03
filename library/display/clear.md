@@ -41,5 +41,5 @@ Project settings
 ```
 
 <div style="min-width: 33.33%">
-    <img src="setcolor.png">
+    <img src="clear.png">
 </div>
