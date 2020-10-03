@@ -9,3 +9,5 @@ nav_order: 2
 ## Download and Play Games
 
 Download and play incredible games created by members of the community.
+
+http://www.pokitto.com/games/
