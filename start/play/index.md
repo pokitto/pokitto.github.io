@@ -1,6 +1,6 @@
 ---
 title: Play
-has_children: true
+has_children: false
 permalink: /start/play
 parent: Getting started
 nav_order: 2
