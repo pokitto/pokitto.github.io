@@ -35,7 +35,7 @@ Here is listed and explained all Pokitto specific functions, part of the Pokitto
 |:---------------------------------------------------------------------------------------|:-------------------------------------------------------------|
 | [drawBitmap()]({{site.url}}{{site.baseurl}}/library/display/drawbitmap)                | Draw bitmap to the screen.                                   | 
 | [drawPixel()]({{site.url}}{{site.baseurl}}/library/display/drawpixel)                  | Draw pixel to the screen.                                    |
-| [drawLine()]({{site.url}}{{site.baseurl}}/library/display/drawline)                    | Draw linex to the screen.                                    | 
+| [drawLine()]({{site.url}}{{site.baseurl}}/library/display/drawline)                    | Draw line to the screen.                                     | 
 | [getPixel()]({{site.url}}{{site.baseurl}}/library/display/getpixel)                    | Get pixel color.                                             |
 | [fillScreen()]({{site.url}}{{site.baseurl}}/library/display/fillscreen)                | Fill the screen with the specified color.                    |
 | [clear()]({{site.url}}{{site.baseurl}}/library/display/clear)                          | Clear the screen.                                            |

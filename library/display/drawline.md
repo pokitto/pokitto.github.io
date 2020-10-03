@@ -2,7 +2,7 @@
 title: drawLine
 nav_order: 1
 has_children: false
-parent: Library Documentation Display
+parent: Library Documentation
 permalink: /library/display/drawline
 ---
 
