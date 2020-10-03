@@ -11,6 +11,8 @@ nav_order: 3
 Create your own games/apps, learn programming & building electronics in a fun way!
 
 [Step1 Quick Start Guide]({{site.url}}{{site.baseurl}}/start/learn/quickstart/step1)
+
 [Step2 Make your first program]({{site.url}}{{site.baseurl}}/start/learn/quickstart/step2)
+
 [Step3 Quick Start Guide]({{site.url}}{{site.baseurl}}/start/learn/quickstart/step3)
 
