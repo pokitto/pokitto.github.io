@@ -12,3 +12,5 @@ parent: Examples
 ---
 
 [Hello World Classic]({{site.url}}{{site.baseurl}}/examples/cpp/helloworld)
+
+[Hello World New]({{site.url}}{{site.baseurl}}/examples/cpp/helloworldnew)

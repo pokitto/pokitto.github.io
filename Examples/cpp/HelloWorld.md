@@ -9,6 +9,7 @@ permalink: /examples/cpp/helloworld
 
 ## Hello World
 Your first program on the pokitto 
+This is the classic approach to write code in the Pokitto
  
 <div class="code-example" markdown="1">
 **main.cpp**
