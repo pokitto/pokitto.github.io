@@ -2,7 +2,7 @@
 title: Quick Start Guide
 has_children: true
 permalink: /start/learn/quickstart
-parent: Learn
+parent: Make your Own Games
 nav_order: 1
 ---
 
