@@ -11,7 +11,8 @@ permalink: /library/display/drawpixel
 ## drawPixel(int16_t x, int16_t y, uint8_t color)
 
 ## Description
-Draw a single point (pixel) in the screen specific coordinate using current color (you can choose index color used with [setColor]({{site.url}}{{site.baseurl}}/library/display/setcolor)).
+Draw a single point (pixel) in the screen specific coordinate using current color (you can choose index color with [setColor]({{site.url}}{{site.baseurl}}/library/display/setcolor))
+or using the function call with color as parameter.
 
 ## Parameters
 

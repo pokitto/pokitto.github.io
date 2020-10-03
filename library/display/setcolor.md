@@ -12,7 +12,7 @@ permalink: /library/display/setcolor
 
 ## Description
 Choose the color that will be used for the subsequent drawing calls, it comes in two flavours if you need to set also the background color in just one call.
-It's important to highlight that the color is passed as index of the colours palette in use.
+It's important to highlight that the color is passed as **index of the colour** in the palette in use.
 Is possible to load a different palette with [load565Palette()]({{site.url}}{{site.baseurl}}/library/display/load565palette) or [loadRGBPalette()]({{site.url}}{{site.baseurl}}/library/display/loadrgbpalette)
 
 ## Parameters
@@ -21,7 +21,7 @@ Is possible to load a different palette with [load565Palette()]({{site.url}}{{si
 The index of the color in the palette that will be used by all the drawing routines 
 
 ### backGroundColor
-The index of the color in the palette that will be used for [clear()]({{site.url}}{{site.baseurl}}/library/display/clear) the screen or as background for text drawing. 
+The index of the color in the palette that will be used for [clear()]({{site.url}}{{site.baseurl}}/library/display/clear) the screen or as background for text print. 
 
 
 ## Example
