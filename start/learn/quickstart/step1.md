@@ -30,7 +30,7 @@ Extract the zip and run `IDE.exe`.
 ## Macintosh
 
 
-## Fedore
+## Fedora
 Before you can run the IDE's emulator, you must download the SDL2 libraries with the following command: 
 ```
 sudo dnf install SDL2 SDL2_net SDL2_image
