@@ -8,4 +8,8 @@ nav_order: 1
 
 ## Quick Start Guide
 
+[Step1 Quick Start Guide]({{site.url}}{{site.baseurl}}/start/learn/quickstart/step1)
+[Step2 Make your first program]({{site.url}}{{site.baseurl}}/start/learn/quickstart/step2)
+[Step3 Quick Start Guide]({{site.url}}{{site.baseurl}}/start/learn/quickstart/step3)
+
 
