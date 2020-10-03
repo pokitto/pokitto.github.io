@@ -12,4 +12,4 @@ nav_order: 1
 
 [Step2 Make your first program]({{site.url}}{{site.baseurl}}/start/learn/quickstart/step2)
 
-[Step3 Quick Start Guide]({{site.url}}{{site.baseurl}}/start/learn/quickstart/step3)
+[Step3 Upload a program to Pokitto]({{site.url}}{{site.baseurl}}/start/learn/quickstart/step3)
