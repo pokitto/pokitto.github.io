@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 
-## Assembling the pokitto
+## Assembling Pokitto
 
 ### Pokitto assembly instructions video
 
