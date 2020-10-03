@@ -8,23 +8,24 @@ permalink: /library/display/drawline
 
 How to draw a line.
 
-## drawLine(x0, y0, x1, y1)
+## drawLine(uint8_t x0, uint8_t y0, uint8_t x1, uint8_t y1)
 
 Draws a line of the current color (you can choose index color with [setColor()]({{site.url}}{{site.baseurl}}/library/display/setcolor)).
+The coordinate system is the one usually used in most of computer display, with the origin point (0,0) located at the top left corner of the display.
 
 ## Parameters
 
 ### x0
-The x coordinate from where the line will start. 
+The x coordinate in the screen from where the line will start. 
 
 ### y0
-The y coordinate from where the line will start. 
+The y coordinate in the screen from where the line will start. 
 
 ### x1
-The x coordinate where the line will end.
+The x coordinate in the screen where the line will end.
 
 ### y1
-The y coordinate where the line will end.
+The y coordinate in the screen where the line will end.
 
 ## Example
 
