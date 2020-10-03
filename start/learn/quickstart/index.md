@@ -1,6 +1,6 @@
 ---
 title: Quick Start Guide
-has_children: true
+has_children: false
 permalink: /start/learn/quickstart
 parent: Learn
 nav_order: 1
