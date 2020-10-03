@@ -3,6 +3,7 @@ title: Hello World
 parent: cpp
 nav_order: 2
 has_children: false
+permalink: /examples/cpp/helloworld
 ---
 
 
