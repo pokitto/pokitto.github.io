@@ -2,7 +2,7 @@
 title: drawPixel
 nav_order: 1
 has_children: false
-parent: Library Documentation
+parent: Library Documentation Display
 permalink: /library/display/drawpixel
 ---
 
