@@ -1,6 +1,6 @@
 ---
 title: test
-has_children: false
+has_children: true
 permalink: /start/test
 parent: Getting started
 ---
