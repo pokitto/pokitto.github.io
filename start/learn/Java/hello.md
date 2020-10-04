@@ -64,7 +64,7 @@ One of the main things we will use a lot in Java games is the Screen object. It 
 **Main.java**
 </div>
 
-```Java
+```java
 import femto.mode.HiRes16Color;
 import femto.Game;
 import femto.State;
@@ -119,7 +119,7 @@ With our Main class now looking like this:
 **Main.java**
 </div>
 
-```Java
+```java
 import femto.mode.HiRes16Color;
 import femto.Game;
 import femto.State;
@@ -165,7 +165,7 @@ In our project, lets add the Dog
 **Main.java**
 </div>
 
-```Java
+```java
 import femto.mode.HiRes16Color;
 import femto.Game;
 import femto.State;
@@ -216,7 +216,7 @@ but it still isn't moving, so lets add some controls:
 **Main.java**
 </div>
 
-```Java
+```java
 import femto.mode.HiRes16Color;
 import femto.Game;
 import femto.State;
@@ -281,7 +281,7 @@ Here we add two more variables. Integers `x` and `y`. We then initialize them in
 **void update()**
 </div>
 
-```Java
+```java
 if( Button.Left.isPressed() ) {
             x--;
         }
