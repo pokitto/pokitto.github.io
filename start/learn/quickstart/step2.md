@@ -7,23 +7,17 @@ nav_order: 2
 ---
 
 # Step 2: Make your first program "Hello World!"
-This program print a simple text "Hello World!" on your pokitto display. <b/>
-<div class="code-example" markdown="1">
-**main.cpp**
-</div>
 
-```cpp
-#include "Pokitto.h"
+1) Start the Femto IDE and select the "Hello CPP" project. The ready made project opens in the IDE.
+This is how the example looks like. <b/>
 
-void init() {
-    //Here put any code you want to execute at startup
-}
+![hello world](/assets/images/learn/ide.jpg)
 
-void update() {
-    //This should be executed at the required FPS
-    using PD = Pokitto::Display;
-    PD::print("hello world");
-}
-```
+2) Make sure the selection list at the top menu bar has the "Pokitto" binary target selected, and select from the "Build" menu: "Build & Run".
+After the program has been compiled and linked, the emulator starts. Press "A" until you see the game screen:
+
+![hello world](/assets/images/learn/emu.jpg)
+
+Now you have run your first program under the Pokitto HW emulator!
 
 [Next step]({{site.url}}{{site.baseurl}}/start/learn/quickstart/step3)
