@@ -28,7 +28,7 @@ Simply download the right one according to your operating system and proceed to 
 Extract the zip and run `IDE.exe`.
 
 ## Macintosh
-
+Extract and install
 
 ## Fedora
 Before you can run the IDE's emulator, you must download the SDL2 libraries with the following command: 
