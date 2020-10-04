@@ -9,4 +9,4 @@ nav_order: 1
 
 ## PEX - the Pokitto EXtension header
 
-<img src="assets/images/pex.png">
+<img src="../../../assets/images/pex.png">
