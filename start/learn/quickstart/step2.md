@@ -6,10 +6,10 @@ parent: Quick Start Guide
 nav_order: 2
 ---
 
-# Step 2: Make your first program "Hello World!"
+# Step 2: Build your first program "Hello World!"
 
 1) Start the Femto IDE and select the "Hello CPP" project. The ready made project opens in the IDE.
-This is how the example looks like. <b/>
+This is how the example looks like in the Femto IDE. <b/>
 
 ![hello world](/assets/images/learn/ide.jpg)
 
@@ -18,6 +18,6 @@ After the program has been compiled and linked, the emulator starts. Press "A" u
 
 ![hello world](/assets/images/learn/emulator.png)
 
-Now you have run your first program under the Pokitto HW emulator!
+Now you have run your first program under the Pokitto HW emulator! The emulator runs the same binary file as the real HW. The binary file was made with the "Build & run" command before.
 
 [Next step]({{site.url}}{{site.baseurl}}/start/learn/quickstart/step3)
