@@ -36,7 +36,7 @@ Here is listed and explained all Pokitto specific functions, part of the Pokitto
 | [drawBitmap()]({{site.url}}{{site.baseurl}}/library/display/drawbitmap)                | Draw bitmap to the screen.                                   | 
 | [drawPixel()]({{site.url}}{{site.baseurl}}/library/display/drawpixel)                  | Draw pixel to the screen.                                    |
 | [drawLine()]({{site.url}}{{site.baseurl}}/library/display/drawline)                    | Draw line to the screen.                                     | 
-| [drawRect()]({{site.url}}{{site.baseurl}}/library/display/drawrect)                    | Draw a rectangle to the screen.                              | 
+| [drawRectangle()]({{site.url}}{{site.baseurl}}/library/display/drawrectangle)          | Draw a rectangle to the screen.                              | 
 | [drawCircle()]({{site.url}}{{site.baseurl}}/library/display/drawCirle)                 | Draw circle to the screen.                                   | 
 | [drawTriangle()]({{site.url}}{{site.baseurl}}/library/display/drawtriangle)            | Draw triangle to the screen.                                 | 
 |                                                                                        |                                                              |
