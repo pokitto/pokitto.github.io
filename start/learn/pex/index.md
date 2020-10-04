@@ -4,7 +4,7 @@ has_children: false
 permalink: /start/learn/pex
 parent: Learn
 grand_parent: Getting started
-nav_order: 1
+nav_order: 2
 ---
 
 ## PEX - the Pokitto EXtension header
