@@ -38,7 +38,7 @@ Pokitto Guidebook is a collection of information about Pokitto and how it works.
         <a href="{{ site.url }}{{ site.baseurl }}/start/Assembling%20the%20pokitto.html" >
             <img src="assets/images/assemble.svg" width="200px">
             <p align="center">
-                <a href="{{ site.url }}{{ site.baseurl }}/start/Assembling%20the%20pokitto.html" class="btn">Assemble Pokitto</a>
+                <a href="{{ site.url }}{{ site.baseurl }}/start/Assembling%20Pokitto.html" class="btn">Assemble Pokitto</a>
             </p>
         </a>
     </div>
