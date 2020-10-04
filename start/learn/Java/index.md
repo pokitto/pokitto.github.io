@@ -9,4 +9,4 @@ nav_order: 3
 
 ## Programming in Java language
 
-
+[Hello Java!]({{site.url}}{{site.baseurl}}/start/learn/java/hello)
