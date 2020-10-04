@@ -30,16 +30,13 @@ Extract the zip and run `IDE.exe`.
 ## Macintosh
 Extract and install
 
-## Fedora
+## Linux
 Before you can run the IDE's emulator, you must download the SDL2 libraries with the following command: 
+#### Fedora
 ```
 sudo dnf install SDL2 SDL2_net SDL2_image
 ```
-
-Once that's done, extract the Linux release and run IDE.
-
-## Debian / Ubuntu
-Before you can run the emulator, you must download the SDL2 libraries with the following command:
+#### Debian / Ubuntu
 ```
 sudo apt install libsdl2 libsdl2_net libsdl2_image
 ```
