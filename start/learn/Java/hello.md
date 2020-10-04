@@ -7,3 +7,7 @@ nav_order: 1
 ---
 
 ## Hello Java! 
+
+<div style="min-width: 33.33%">
+    <img src="hellojava.gif">
+</div>
