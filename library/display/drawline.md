@@ -45,11 +45,11 @@ void update() {
     using PD = Pokitto::Display;
 
     //X Axis from center of screen
-    PD::setColor(6); //Set color red
+    PD::setColor(6); //Set color blue
     PD::drawLine(PD::width / 2, PD::height / 2, PD::width / 2 + axisLenght, PD::height / 2);
 
     //Y Axis from center of screen
-    PD::setColor(7); //Set color blue
+    PD::setColor(7); //Set color red
     PD::drawLine(PD::width / 2, PD::height / 2, PD::width / 2, PD::height / 2 - axisLenght);
 
     //Bottom corner draw
