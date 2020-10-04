@@ -21,7 +21,7 @@ You will see there is a lot going on here. So lets clear it out so the only piec
 **Main.java**
 </div>
 
-```Java
+```java
 import femto.mode.HiRes16Color;
 import femto.Game;
 import femto.State;
