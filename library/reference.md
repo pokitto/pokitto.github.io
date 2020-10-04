@@ -36,15 +36,28 @@ Here is listed and explained all Pokitto specific functions, part of the Pokitto
 | [drawBitmap()]({{site.url}}{{site.baseurl}}/library/display/drawbitmap)                | Draw bitmap to the screen.                                   | 
 | [drawPixel()]({{site.url}}{{site.baseurl}}/library/display/drawpixel)                  | Draw pixel to the screen.                                    |
 | [drawLine()]({{site.url}}{{site.baseurl}}/library/display/drawline)                    | Draw line to the screen.                                     | 
-| [getPixel()]({{site.url}}{{site.baseurl}}/library/display/getpixel)                    | Get pixel color.                                             |
+| [drawRect()]({{site.url}}{{site.baseurl}}/library/display/drawrect)                    | Draw a rectangle to the screen.                              | 
+| [drawCircle()]({{site.url}}{{site.baseurl}}/library/display/drawCirle)                 | Draw circle to the screen.                                   | 
+| [drawTriangle()]({{site.url}}{{site.baseurl}}/library/display/drawtriangle)            | Draw triangle to the screen.                                 | 
+|                                                                                        |                                                              |
 | [fillScreen()]({{site.url}}{{site.baseurl}}/library/display/fillscreen)                | Fill the screen with the specified color.                    |
+| [fillRectangle()]({{site.url}}{{site.baseurl}}/library/display/fillrectangle)          | Fill a rectangle with the specified color.                   |
+| [fillCircle()]({{site.url}}{{site.baseurl}}/library/display/fillcircle)                | Fill a circle with the specified color.                      |
+| [fillTriangle()]({{site.url}}{{site.baseurl}}/library/display/filltriangle)            | Fill a triangle with the specified color.                    |
+|                                                                                        |                                                              |
 | [clear()]({{site.url}}{{site.baseurl}}/library/display/clear)                          | Clear the screen.                                            |
 | [setInvisibleColor()]({{site.url}}{{site.baseurl}}/library/display/setinvisiblecolor)  | Set invisible color.                                         |
 | [setColor()]({{site.url}}{{site.baseurl}}/library/display/setcolor)                    | Set color.                                                   |
+|                                                                                        |                                                              |
+| [getPixel()]({{site.url}}{{site.baseurl}}/library/display/getpixel)                    | Get pixel color.                                             |
 | [getHeight()]({{site.url}}{{site.baseurl}}/library/display/getheight)                  | Get screen height.                                           |
 | [getWidth()]({{site.url}}{{site.baseurl}}/library/display/getwidth)                    | Get screen width.                                            |
 | [load565Palette()]({{site.url}}{{site.baseurl}}/library/display/load565palette)        | Load a 565 palette.                                          |
 | [loadRGBPalette()]({{site.url}}{{site.baseurl}}/library/display/loadrgbpalette)        | Load a RGB palette.                                          |
+|                                                                                        |                                                              |
+| [print()]({{site.url}}{{site.baseurl}}/library/display/print)                          | Print something to the screen                                |
+| [println()]({{site.url}}{{site.baseurl}}/library/display/println)                      | Print to the screen and move the cursor to a new line        |
+| [printf()]({{site.url}}{{site.baseurl}}/library/display/printf)                        | Print formatted data to the screen                           |
 
 
 <h2> Sound <span class="label label-purple">class</span></h2>
