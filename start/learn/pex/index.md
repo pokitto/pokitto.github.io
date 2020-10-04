@@ -9,8 +9,4 @@ nav_order: 1
 
 ## PEX - the Pokitto EXtension header
 
-[Step1 Download and install FemtoIDE]({{site.url}}{{site.baseurl}}/start/learn/quickstart/step1)
-
-[Step2 Make your first program]({{site.url}}{{site.baseurl}}/start/learn/quickstart/step2)
-
-[Step3 Upload a program to Pokitto]({{site.url}}{{site.baseurl}}/start/learn/quickstart/step3)
+<img src="assets/images/pex.png">
