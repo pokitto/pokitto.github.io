@@ -16,6 +16,11 @@ When you run this project (Build -> Build & Run) the Pokitto Emulator will start
 </div>
 
 You will see there is a lot going on here. So lets clear it out so the only pieces we have left are as shown:
+
+<div class="code-example" markdown="1">
+**Main.java**
+</div>
+
 ```Java
 import femto.mode.HiRes16Color;
 import femto.Game;
@@ -54,6 +59,10 @@ Then to actually run the game, we put our logic in `update()` which is called ev
 #### Screen
 
 One of the main things we will use a lot in Java games is the Screen object. It is used to configure the display output and to ultimately print to the screen. So lets add a screen object. You can find more info on [HiRes16Color screenmode here](https://github.com/felipemanga/femtoide/wiki/femto.mode.HiRes16Color)
+
+<div class="code-example" markdown="1">
+**Main.java**
+</div>
 
 ```Java
 import femto.mode.HiRes16Color;
@@ -105,6 +114,11 @@ Setting the color: `screen.setTextColor(10);`
 And ultimately, printing to the screen the text: `screen.print("Hello Java!");`
 
 With our Main class now looking like this:
+
+<div class="code-example" markdown="1">
+**Main.java**
+</div>
+
 ```Java
 import femto.mode.HiRes16Color;
 import femto.Game;
@@ -146,6 +160,11 @@ That's fun to see stuff on the screen, but what about input?
 Lets make a little puppy that we can move around the screen with the d-pad. Femto IDE makes sprites very easy. With an sprite sheet and an aseprite exported json file, FemtoIDE will automatically convert them into a sprite object with the name of the json file. If you were looking at the template when you started a new Java project, you would see the `Dog` object which is created from the `Dog.json` file. You can read a bit more [on sprites here](https://github.com/felipemanga/femtoide/wiki/femto.Sprite)
 
 In our project, lets add the Dog
+
+<div class="code-example" markdown="1">
+**Main.java**
+</div>
+
 ```Java
 import femto.mode.HiRes16Color;
 import femto.Game;
@@ -192,6 +211,11 @@ Down in update, I added the `screen.clear(0);` method. This clears the screen us
 Then finally, to draw our dog to the screen, we call the draw method `dog.draw(screen, 10, 10);`. Here we pass in the screen object, and then an x and y coordinate. Now when you run the dog will be running at x:10 and y:10! 
 
 but it still isn't moving, so lets add some controls:
+
+<div class="code-example" markdown="1">
+**Main.java**
+</div>
+
 ```Java
 import femto.mode.HiRes16Color;
 import femto.Game;
@@ -252,6 +276,11 @@ class Main extends State {
 ```
 
 Here we add two more variables. Integers `x` and `y`. We then initialize them in `init()` to `10` each. Then in `update()` we check the the buttons for the directions Left, Right, Up, and Down to see if they are pressed, if true we modify the x and y values.
+
+<div class="code-example" markdown="1">
+**void update()**
+</div>
+
 ```Java
 if( Button.Left.isPressed() ) {
             x--;
