@@ -35,9 +35,7 @@ The radious of the circle to be draw
 #include "Pokitto.h"
 #include <cmath>
 
-int color = 0;
 float angle = 0;
-
 
 void update() {
     using PD = Pokitto::Display;
