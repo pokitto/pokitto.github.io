@@ -16,7 +16,7 @@ This is how the example looks like. <b/>
 2) Make sure the selection list at the top menu bar has the "Pokitto" binary target selected, and select from the "Build" menu: "Build & Run".
 After the program has been compiled and linked, the emulator starts. Press "A" until you see the game screen:
 
-![hello world](/assets/images/learn/emu.jpg)
+![hello world](/assets/images/learn/emulator.png)
 
 Now you have run your first program under the Pokitto HW emulator!
 
