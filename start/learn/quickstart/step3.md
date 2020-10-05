@@ -14,10 +14,10 @@ In this step we are going to flash the Pokitto HW with the binary file we create
 
 1. Put Pokitto in the flashing mode. The video in the end of the page shows how to do it (from the start of the video to 4:47). Just do not download the binary as instructed in the video, as we are going to use our own.  
 
-2. If you installed Femto IDE under the "$HOME/bin/FemtoIDE" folder, open the terminal in the folder: "$HOME/bin/FemtoIDE/project/HelloCPP"
+2. If you installed Femto IDE under the "$HOME/bin/FemtoIDE" folder, open the terminal in the folder: "$HOME/bin/FemtoIDE/project/MyHello"
 
 3. Copy the binary file to the flashing drive like below and wait for 5 seconds:
-`dd bs=1024 conv=nocreat,notrunc if=Hello\ CPP.bin of=/media/$USER/CRP\ DISABLD/firmware.bin`
+`dd bs=1024 conv=nocreat,notrunc if=MyHello.bin of=/media/$USER/CRP\ DISABLD/firmware.bin`
 
 4. Power off and on Pokitto. Press A until you see the game screen. 
 
@@ -25,7 +25,7 @@ In this step we are going to flash the Pokitto HW with the binary file we create
 
 1. Put Pokitto in the flashing mode. The video in the end of the page shows how to do it (from the start of the video to 4:47). Just do not download the binary as instructed in the video, as we are going to use our own.  
 
-2. If you installed Femto IDE under the "C:\bin\FemtoIDE" folder, use the file manager to copy the file "C:\bin\FemtoIDE\project\HelloCPP\Hello CPP.bin" to the CRP DISABLD drive. You can replace the current file in the CRP DISABLD drive.
+2. If you installed Femto IDE under the "C:\bin\FemtoIDE" folder, use the file manager to copy the file "C:\bin\FemtoIDE\project\MyHello\MyHello.bin" to the "CRP DISABLD" drive. You can replace the current file in the "CRP DISABLD" drive.
 
 3. Power off and on Pokitto. Press A until you see the game screen. 
 
