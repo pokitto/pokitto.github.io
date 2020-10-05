@@ -10,9 +10,7 @@ nav_order: 2
 
 1. Start the Femto IDE and select the "New Project" button. Give "MyHello" as the project name. After that the new project opens in the IDE.
 This is how the example looks like in the Femto IDE. <b/>
-
 ![hello world](/assets/images/learn/ide.jpg)
-
 2. Make sure the selection list at the top menu bar has the "Pokitto" binary target selected, and select from the "Build" menu: "Build & Run".
 After the program has been compiled and linked, the emulator starts. Press "A" until you see the game screen:
 
