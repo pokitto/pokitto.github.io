@@ -8,7 +8,7 @@ nav_order: 2
 
 # Step 2: Build your first program "Hello World!"
 
-1. Start the Femto IDE and select the "Hello CPP" project. The ready made project opens in the IDE.
+1. Start the Femto IDE and select the "New Project" button. Give "MyHello" as the project name. After that the new project opens in the IDE.
 This is how the example looks like in the Femto IDE. <b/>
 
 ![hello world](/assets/images/learn/ide.jpg)
