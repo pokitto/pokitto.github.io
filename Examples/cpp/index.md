@@ -1,7 +1,7 @@
 ---
 title: C++
 nav_order: 1
-has_children: true
+has_children: false
 permalink: /examples/cpp
 parent: Examples
 ---
