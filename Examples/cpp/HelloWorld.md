@@ -2,7 +2,6 @@
 title: Hello World
 parent: C++
 nav_order: 2
-has_children: false
 permalink: /examples/cpp/helloworld
 ---
 
